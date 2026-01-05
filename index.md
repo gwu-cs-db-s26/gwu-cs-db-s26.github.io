@@ -59,6 +59,8 @@ All deadlines for the class are found below. Deadlines might not be completely a
 | Week 14 | *Monday 4/13/26:* AI and you <br>*Wednesday 4/15/26:* Phase 2 push<br> - Mentor Meeting |
 | Week 15 | *Monday 4/20/26:* Mentor Meeting <br>*Wednesday 4/22/26:* Focus Group<br> - Focus group |
 | Week 16 | *Monday 4/27/26:* [Performance / Indices Slides](slides/24-15-indexes.pdf) <br>*Wednesday 4/29/26:* [Security Lecture and Lab Slides](slides/24-15-security.pdf)<br> -  |
+
+<!-- Must be an empty line above here -->
 </div>
 
 ## Topics ##
