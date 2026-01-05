@@ -6,8 +6,6 @@ permalink: /syllabus/
 
 **Instructor:** [Prof. Gabe Parmer](https://faculty.cs.gwu.edu/gparmer/)
 
-**Other Instructional Staff:** Kyle Vitale, Kate Halushka, Dania Abdalla, Sameen Ahmad, Adham Popal, Matias Liu Schmid
-
 **Time/Place:**
   * **Class meets Mondays 12:45-2pm, Wednesdays 12:45-3:25PM in SEH 1400**
 
@@ -17,7 +15,7 @@ permalink: /syllabus/
 **Course prerequisites:**
   * CSci 1311, 1112, and Co-requisite of CSci2113
 
-**Website:** [https://gwu-cs-db-s24.github.io/](https://gwu-cs-db-s24.github.io/)
+**Website:** [https://gwu-cs-db-s26.github.io/](https://gwu-cs-db-s26.github.io/)
 
 ## Course Description
 
