@@ -52,8 +52,8 @@ All deadlines for the class are found below. Deadlines might not be completely a
 | Week 9 | *Monday 3/9/26:* Spring Break <br>*Wednesday 3/11/26:* Spring Break<br> -  |
 | Week 10 | *Monday 3/16/26:* [Agile Development Slides](slides/26-9a-agile.pdf) <br>*Wednesday 3/18/26:* Team Work<br> - [Lab 8: Gitting Started](slides/26-lab8.pdf) |
 | Week 11 | *Monday 3/23/26:* [DB Internals Slides](slides/26-11a-dbms-internals.pdf) <br>*Wednesday 3/25/26:* Lab: Sqlite to MySQL<br> - [Mentor Meeting](slides/Lab9_AWS_VS_Code_Setup.pdf) |
-| Week 12 | *Monday 3/30/26:* [RDBMS Challenges Slides](slides/26-12-rdbms-challenges.pdf) <br>*Wednesday 4/1/26:* Lab<br> - Mentor Meeting |
-| Week 13 | *Monday 4/6/26:* [NoSQL Slides](slides/26-12-rdbms-challenges.pdf) <br>*Wednesday 4/8/26:* Phase 1 Demos<br> - due in class |
+| Week 12 | *Monday 3/30/26:* [RDBMS Challenges Slides](slides/26-12-rdbms-challenges.pdf) <br>*Wednesday 4/1/26:* Phase 1 Demos<br> - due in class |
+| Week 13 | *Monday 4/6/26:* [NoSQL Slides](slides/26-12-rdbms-challenges.pdf) <br>*Wednesday 4/8/26:* Phase 2 push<br> - Mentor Meeting |
 | Week 14 | *Monday 4/13/26:* AI and you <br>*Wednesday 4/15/26:* Phase 2 push<br> - Mentor Meeting |
 | Week 15 | *Monday 4/20/26:* Mentor Meeting <br>*Wednesday 4/22/26:* Focus Group<br> - Focus group |
 | Week 16 | *Monday 4/27/26:* [Performance / Indices Slides](slides/26-15-indexes.pdf) <br>*Wednesday 4/29/26:* [Security Lecture and Lab Slides](slides/26-15-security.pdf)<br> -  |
