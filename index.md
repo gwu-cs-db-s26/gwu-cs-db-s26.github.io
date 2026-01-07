@@ -39,7 +39,7 @@ This course will expose students to design and implementation of Database system
 <!-- Generated from: https://docs.google.com/spreadsheets/d/1FzEzmlVZXaWV9OypmifrNPthaeaOAzSPhZ9qJx2wlk8/edit#gid=0 -->
 {% endcomment %}
 
-All deadlines for the class are found below. Deadlines might not be completely accurate until the work is assigned. Lab work is due the next day (Thursday night) unless otherwise noted. All deadlines are at 11:59pm unless otherwise noted. For teamwork, remember to [fill out the form](...) to tell us your team name and members.
+All deadlines for the class are found below. Deadlines might not be completely accurate until the work is assigned. Lab work is due the next day (Thursday night) unless otherwise noted. All deadlines are at 11:59pm unless otherwise noted. For teamwork, remember to [fill out the form](https://forms.gle/pijjWDV7s2pceYPS7) to tell us your team members.
 
 | Week 1 | *Monday 1/12/26:* [Intro to DB and Web Slides](slides/26-1-Course-Overview.pdf) <br>*Wednesday 1/14/26:* [DBMS and Course Outline Lecture and Lab Slides](slides/26-1-Course-Overview-part2.pptx)<br> - [Lab 1: HTML+CSS](lab1/)<br> - [Student Bios from lab](/lab1/): Due Friday 1/16<br> - [HW1](/hw1/): Due Fri 1/23 |
 | Week 2 | *Monday 1/19/26:* MLK Day - no class <br>*Wednesday 1/21/26:* [Relational Model Lecture and Lab Slides](slides/26-2-Relational-Model.pdf)<br> - [Lab 2: Python + Flask](lab2/)<br> - [Advanced Routes and Templates from lab](/lab2/): Due Thurs 1/22 <br> - [HW2](/hw2/): Due Fri 1/30 |

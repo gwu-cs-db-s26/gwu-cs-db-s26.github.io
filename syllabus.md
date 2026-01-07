@@ -69,7 +69,7 @@ There will also be many opportunities to earn extra engagement points -- subscri
 ### Late Policy
 For deadlines related to labs or homeworks, students are expected to submit work on time, but we will allow extensions in certain conditions. We set deadlines in this course to help you stay on track and set you up to be successful in your learning.  However, we are all human and we have real lives with extenuating circumstances that can make meeting deadlines 100% of the time challenging.  In your work life, you may sometimes have to communicate to your boss that you can't meet a deadline for a reason.  In this class, the professors play the role of that boss.  Communication and reflection on reasons why you need a deadline extension are key.
 
-  - To request a deadline extension for a homework or lab assignment you must [fill out this form](https://forms.gle/ncFVW1weW6tUo5Sy5) reflecting on why you need an extension and the impact it will have on the grading team. You also must *send a Discord message to Gabe* with your response.
+  - To request a deadline extension for a homework or lab assignment you must [fill out this form](https://forms.gle/T18o6882WCmcCXqr8) reflecting on why you need an extension and the impact it will have on the grading team. You also must *send a Discord message to Gabe* with your response.
   - Your request should be submitted before the deadline. Typically, a 48 hour extension will be granted.
   - Work submitted more than 48 hours late, or that did not receive an extension approval will receive a 0.
 
