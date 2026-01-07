@@ -29,14 +29,14 @@ To solve the lab, you must fully follow the Instructions to make a Hello World w
 [Pre-Lab1 Hello World Wide Web](https://classroom.github.com/a/gDpbnf8c): basics of HTML tags, nesting, validation and DOM
   - not graded, due today for participation point
 
-[Lab1 Practice Student Roster](https://classroom.github.com/a/0agXGezp): try to make a page with a list of student names
+[Lab1 Practice Student Roster](https://classroom.github.com/a/0aRVyVlq): try to make a page with a list of student names
   - not graded, do this assignment in teams of two to four.
 
-[Lab1 Practice Lots of Tags](https://classroom.github.com/a/kzc68j1O): walk through of most common HTML tags and CSS
+[Lab1 Practice Lots of Tags](https://classroom.github.com/a/1Jfrwo7S): walk through of most common HTML tags and CSS
   - not graded, follow along as we discuss
 
-[Lab1 Student Bios](https://classroom.github.com/a/YQXrn2ox): work in a small group to make a website with CSS styling
-  - **Teams of up to four**: Add your team [here](https://forms.gle/x5b2kdouL5Fftvav6).
+[Lab1 Student Bios](https://classroom.github.com/a/euPJtKId): work in a small group to make a website with CSS styling
+  - **Teams of up to four**: Add your team using the form on the class webpage (above the schedule).
 
 <!-- # Lab 1 Teams
 
