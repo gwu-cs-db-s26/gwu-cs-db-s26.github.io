@@ -28,7 +28,7 @@ This course will expose students to design and implementation of Database system
 ## Announcements ##
 
 - You must complete [this short welcome survey](https://forms.gle/G8PwWSKc6H9c61ZR6)
-- Use our Discord Server! (Join [here](https://discord.gg/SvtV4STCXy)
+- Use our Discord Server! (Join [here](https://discord.gg/SvtV4STCXy))
 - Check the [syllabus](/syllabus) for a sense of what is to come!
 
 ## Schedule
