@@ -6,19 +6,19 @@ permalink: /lab1/
 
 > This lab will teach you the basics of HTML and CSS. No advance knowledge of either is required, but if you are not already familiar with HTML, we strongly suggest you complete the Pre-Lab exercise below **before** class.
 >
-> **[Lab 1 Slides](/slides/24-lab1.pdf)** (after lecture slides)
+> **[Lab 1 Slides](/slides/26-lab1.pdf)** (after lecture slides)
 
 # Pre-Lab Exercise
 
 **Time Estimate:** 30 minutes
 **Deadline:** Week 1, Wednesday 12:45PM (before class)
 
-To be fully prepared for lab, we suggest students do a Pre-Lab. As an incentive for this week, we will give you an Engagement point (see syllabus for details) if you complete the pre-lab exercise before class starts on Wednesday.
+To be fully prepared for lab, we suggest students do a Pre-Lab. As an incentive for this week, we will give you an Engagement point (see syllabus for details) if you complete the pre-lab exercise before class starts on Monday.
 
 To complete the Pre-Lab, you must:
 
-- You must complete [this short welcome survey](https://forms.gle/Z4VeorhwL6szseY66)
-- Use our Discord Server! (Join [here](https://discord.gg/WvmDjm7v))
+- You must complete [this short welcome survey](https://forms.gle/G8PwWSKc6H9c61ZR6)
+- Use our Discord Server! (Join [here](https://discord.gg/SvtV4STCXy))
 - Solve [Pre-Lab1: Hello World Wide Web](https://classroom.github.com/a/gDpbnf8c)
 
 To solve the lab, you must fully follow the Instructions to make a Hello World webpage, which should be visible when you open the project. You do not need to record your answers to the *italicized questions*, but you might want to take notes since you will be expected to know this information later! You do have a plan for making class notes, right??

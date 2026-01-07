@@ -6,7 +6,7 @@ permalink: /lab3/
 
 > This lab will teach you the basics SQL Select queries.
 >
-> **[Lab Slides](https://github.com/gwu-cs-db-s24/gwu-cs-db-s24.github.io/files/14106736/Lab3b-SQL-Select.pptx)
+> **[Lab Slides](https://github.com/gwu-cs-db-s26/gwu-cs-db-s26.github.io/files/14106736/Lab3b-SQL-Select.pptx)
 ** <br>
 > **[SQL Reference Sheet](sql-basics.pdf)**
 
