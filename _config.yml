@@ -17,12 +17,12 @@ title: "CSCI 2541W Databases"
 email: gparmer@gwu.edu
 author: Gabe Parmer
 description: > # this means to ignore newlines until "baseurl:"
-  GW CSCI 2541W Databases - Spring 2024
+  GW CSCI 2541W Databases - Spring 2026
 
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://gwu-cs-db-s24.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://gwu-cs-db-s26.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username: gwu-cs-db-s24
+github_username: gwu-cs-db-s26
 
 # destination: ./docs
 
