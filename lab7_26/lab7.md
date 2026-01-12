@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lab 7 - Sessions and Wordle
-permalink: /lab7/
+# permalink: /lab7/
 ---
 
 > Students will get more experience with session variables, and work on a wordle application

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "HW2: Student Roster"
-permalink: /hw2/
+# permalink: /hw2/
 ---
 
 ## Instructions

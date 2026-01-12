@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lab 6 - Session Variables
-permalink: /lab6/
+# permalink: /lab6/
 ---
 
 > Students will become familiar with using session variables in flask

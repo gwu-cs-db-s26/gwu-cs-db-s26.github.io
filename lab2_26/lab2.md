@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lab 2 - Python Flask
-permalink: /lab2/
+# permalink: /lab2/
 ---
 
 > This lab will teach you the basics of writing web applications with the Python Flask microframework.

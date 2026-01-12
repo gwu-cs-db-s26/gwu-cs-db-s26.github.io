@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lab 3 - SQL
-permalink: /lab3/
+# permalink: /lab3/
 ---
 
 > This lab will teach you the basics SQL Select queries.

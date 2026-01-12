@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "HW1: Python Practice"
-permalink: /hw1/
+# permalink: /hw1/
 ---
 
 <blockquote>

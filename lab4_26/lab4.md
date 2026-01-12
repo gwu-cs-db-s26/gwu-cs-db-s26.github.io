@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lab 4 - DB Design
-permalink: /lab4/
+# permalink: /lab4/
 ---
 
 > This lab will teach you the basics of DB Design.
