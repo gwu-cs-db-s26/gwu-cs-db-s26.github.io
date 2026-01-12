@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "HW1: Python Practice"
-# permalink: /hw1/
+permalink: /hw1/
 ---
 
 <blockquote>
@@ -178,7 +178,7 @@ For Google's thorough introduction to Python (minimal programming experience req
 
 ## Assignment: Python Syntax and Data Structures
 > This assignment must be solved **on your own** and your last commit *before the deadline* will be treated as your submission.
->   - Homework [link](https://classroom.github.com/a/i_UYDVPw)
+>   - Homework [link](https://classroom.github.com/a/f-7IO3nA)
 
 Complete this set of simple Python exercises to ensure you are familiar with Python syntax.
 
@@ -191,7 +191,7 @@ Instructions:
 
 ## OPTIONAL Engagement Activity: Rock Papers Scissors
 > If you complete this extra activity, you will receive an engagement point for Week 2 of the class. This must be solved **on your own** and will be submitted through Replit.
->   - Project [link](https://classroom.github.com/a/4atD8Tz9)
+>   - Project [link](https://classroom.github.com/a/CRWxLa2J)
 >   - Same deadline as the homework above
 
 <img src="/hw1/Rock-paper-scissors.png" style="float:right; width:33%" title="RPS image from Wikimedia Commons"> [Rock, Paper, Scissors](https://en.wikipedia.org/wiki/Rock_paper_scissors) is a simultaneous, hand-based game, where only the luckiest (or wiliest) contestant will survive. Your challenge is to implement a much less physical (and much more predictable) text-based version of the game implemented in Python.
