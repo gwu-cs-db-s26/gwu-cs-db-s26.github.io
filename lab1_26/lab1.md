@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lab 1 - HTML+CSS
-permalink: /lab1/
+# permalink: /lab1/
 ---
 
 > This lab will teach you the basics of HTML and CSS. No advance knowledge of either is required, but if you are not already familiar with HTML, we strongly suggest you complete the Pre-Lab exercise below **before** class.
