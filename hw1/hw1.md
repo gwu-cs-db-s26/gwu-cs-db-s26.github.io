@@ -11,7 +11,7 @@ To receive full credit for this homework exercise you must:
 
   - Read and think about the Common Pitfalls presented below (you can do this either before or after going over the intro to Python materials)
   - Read or watch the materials below to learn basic Python programming
-  - Solve a Replit programming exercise that covers basic python syntax and data structures.
+  - Solve a programming exercise that covers basic python syntax and data structures.
   - Complete a form which asks you about your experience learning python.
 
 </blockquote>
@@ -57,9 +57,7 @@ Let's break down a few of the key points here, plus cover some common pitfalls.
 
 > 1\. Python is an **interpreted** language. This means that you do not need to compile your Python code in the same way you would Java or C. This helps make it fast to use and encourages a quick edit-test-debug cycle.
 
-This has a few important implications. Most obvious, it means that you will run your programs by simply issuing a command like `python myapp.py`.  But another powerful feature is that you can also simply open a Python interpreter by running `python` and type in arbitrary code. Each time you hit enter, it will execute your statements. This can be very useful for quickly testing how a Python language feature works.
-
-When you use Replit.com to write your Python code, you will have access to both of these options.  If you hit the big `Run` button, it will automatically run the command `python main.py` for you and show you the output in the Console tab. However, Replit also lets you type python commands directly into the console to execute them. This is really handy for testing your program because you can have it execute your main file, and then allow you to print out values or call functions from the program in an interactive manner. To learn more about Replit's Python support, [watch this short video](https://youtu.be/VGiCFnyTRRk). In particular, it has some great tips on using their debugger.
+This has a few important implications. Most obvious, it means that you will run your programs by simply issuing a command like `python myapp.py`.  But another powerful feature is that you can also simply open a Python interpreter by running `python` and type in arbitrary code. Each time you hit enter, it will execute your statements. This can be very useful for quickly testing how a Python language feature works. You can easily find tutorial videos for how to use, run, and debug python with vscode, or on the command line.
 
 
 > 2\. Python has **dynamic typing and dynamic binding**. These mean that unlike C/Java, with Python you never will explicitly specify the types of your variables. Python will automatically determine at runtime what type you are using, and a single variable can be dynamically rebound to different types depending on its value.
@@ -157,12 +155,11 @@ Properly indenting your code is always good practice, and Python forces you to d
 ---
 
 ## Learning Python Basics
-There are many ways to learn Python. Here are two approaches. If you find other good resources, post on Slack in #python.
+There are many ways to learn Python. Here are two approaches. If you find other good resources, post on Discord in #python.
 
 ### Track 1: For Visual Learners
 I have gathered a [set of short python tutorial videos](/hw1/videos/). Each video is ~5 minutes long, and they will take you through the basics of python syntax, control structures, and data structures.
-
-Sit back and watch, but keep in mind that it is very difficult for your brain to retain information unless you are active in your learning. I strongly suggest trying out some of the commands as you watch [in this practice Replit](https://replit.com/team/cs2541s22/HW1-Practice-Area). You should also supplement this with looking at the Full Speed Python document below!
+Sit back and watch, but keep in mind that it is very difficult for your brain to retain information unless you are active in your learning. I strongly suggest trying out some of the commands as you watch. You should also supplement this with looking at the Full Speed Python document below!
 
 There are many other python tutorials and videos throughout the internet, but these are by far the best I have found in terms of quality of content and conciseness. If you find better ones, let me know.
 
@@ -190,7 +187,7 @@ Instructions:
 ---
 
 ## OPTIONAL Engagement Activity: Rock Papers Scissors
-> If you complete this extra activity, you will receive an engagement point for Week 2 of the class. This must be solved **on your own** and will be submitted through Replit.
+> If you complete this extra activity, you will receive an engagement point for Week 2 of the class. This must be solved **on your own** and will be submitted through github.
 >   - Project [link](https://classroom.github.com/a/CRWxLa2J)
 >   - Same deadline as the homework above
 
