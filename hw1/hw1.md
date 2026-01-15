@@ -12,7 +12,6 @@ To receive full credit for this homework exercise you must:
   - Read and think about the Common Pitfalls presented below (you can do this either before or after going over the intro to Python materials)
   - Read or watch the materials below to learn basic Python programming
   - Solve a programming exercise that covers basic python syntax and data structures.
-  - Complete a form which asks you about your experience learning python.
 
 </blockquote>
 

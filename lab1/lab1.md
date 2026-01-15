@@ -35,7 +35,7 @@ To solve the lab, you must fully follow the Instructions to make a Hello World w
 [Lab1 Practice Lots of Tags](https://classroom.github.com/a/1Jfrwo7S): walk through of most common HTML tags and CSS
   - not graded, follow along as we discuss
 
-[Lab1 Student Bios](https://classroom.github.com/a/euPJtKId): work in a small group to make a website with CSS styling
+[Lab1 Student Bios](https://classroom.github.com/a/GQWFZzLd): work in a small group to make a website with CSS styling
   - **Teams of up to four**: Add your team using the form on the class webpage (above the schedule).
 
 <!-- # Lab 1 Teams
