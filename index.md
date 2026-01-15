@@ -7,16 +7,17 @@ layout: home
     <ul class="contact-list">
         <li><a href="https://faculty.cs.gwu.edu/gparmer"><b>Prof. Gabe Parmer</b></a></li>
         <li>Class: Mondays 12:45-2pm, Wednesdays 12:45-3:25PM</li>
-        <li>Office Hours: ???</li>
+        <li>Office Hours: Monday 2-4</li>
     </ul>
 </div>
 <div class="footer-col two-col-2">
     <ul class="contact-list">
         <li><b>Other Instructional Staff [Office Hours]:</b></li>
-        <li><b>TAs: Emil Abbasov [???]</b></li>
-		<li><b>Bella Dayrit [???],</b></li>
-		<li><b>Sydney Berritt[???]</b></li>
-		<li><b>LAs: Aditya Arjun [???]</b></li>
+        <li><b>TAs: Emil Abbasov</b></li>
+		<li><b>Bella Dayrit [Friday 3:30-4:30],</b></li>
+		<li><b>Sydney Berritt[Friday 1:30-3:30]</b></li>
+		<li><b>Max Eichholz[Tuesday 10-11am, Wednesday 3:30-5:30]</b></li>
+		<li><b>LAs: Aditya Arjun [Wednesday 4-5, Thursday 5-6]</b></li>
     </ul>
     </div>
 </div></div>
