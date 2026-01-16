@@ -16,7 +16,7 @@ layout: home
         <li><b>TAs: Emil Abbasov</b></li>
 		<li><b>Bella Dayrit [Friday 3:30-4:30],</b></li>
 		<li><b>Sydney Berritt[Friday 1:30-3:30]</b></li>
-		<li><b>Max Eichholz[Tuesday 10-11am, Wednesday 3:30-5:30]</b></li>
+		<li><b>Max Eichholz[Tuesday 10-11am, Wednesday 3:30-5:30, Friday 10:30-12:30]</b></li>
 		<li><b>LAs: Aditya Arjun [Wednesday 4-5, Thursday 5-6]</b></li>
     </ul>
     </div>
