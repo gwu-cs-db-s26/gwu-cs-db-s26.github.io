@@ -6,16 +6,16 @@ title: Lab 3 - SQL
 
 > This lab will teach you the basics SQL Select queries.
 >
-> **[Lab Slides](https://github.com/gwu-cs-db-s26/gwu-cs-db-s26.github.io/files/14106736/Lab3b-SQL-Select.pptx)
-** <br>
-> **[SQL Reference Sheet](sql-basics.pdf)**
-
+> **[Lab Slides](/lab3/lab3.pdf)**
+> **[SQL Reference Sheet](/lab3/sql-basics.pdf)**
+>
+> **[Lab 3 Activities Github](https://classroom.github.com/a/z-PhFyBg)**
 
 # Lab 3 Activities
-[Lab3 Practice: Select Basics](https://classroom.github.com/a/z-PhFyBg): Demo of basic select queries
+**Lab3 Practice: Select Basics** Demo of basic select queries
   - Activity 1/2: not graded
 
-[Lab3: Advanced Selections](https://classroom.github.com/a/z-PhFyBg): More advanced queries with grouping and joins
+**Lab3: Advanced Selections** More advanced queries with grouping and joins
   - Activity 3: done in your table/online group, DUE
 
 [HW3: SQL Selection](https://classroom.github.com/a/W_L9Y0eB): Homework on advanced queries with grouping and joins
