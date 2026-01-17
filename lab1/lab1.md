@@ -6,7 +6,7 @@ permalink: /lab1/
 
 > This lab will teach you the basics of HTML and CSS. No advance knowledge of either is required, but if you are not already familiar with HTML, we strongly suggest you complete the Pre-Lab exercise below **before** class.
 >
-> **[Lab 1 Slides](/slides/26-lab1.pdf)** (after lecture slides)
+> **[Lab 1 Slides](/lab1/lab1.pdf)** (after lecture slides)
 
 # Pre-Lab Exercise
 
