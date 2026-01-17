@@ -6,11 +6,9 @@ title: Lab 2 - Python Flask
 
 > This lab will teach you the basics of writing web applications with the Python Flask microframework.
 >
-> **[Lab Slides](/lab2/lab-2.pdf)**
-> 
-> **[Live Share](/lab2/liveshare.pdf)**
+> **[Lab Slides](/lab2/lab2.pdf)**
 >
-> **[Lab 2 Activities Github](https://classroom.github.com/a/GhvBcwRd)**
+> **[Lab 2 Activities Github](https://classroom.github.com/a/zD1xiZ9M)**
 
 
 # Lab 2 Activities
