@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Project Details
-permalink: /project/
+# permalink: /project/
 ---
 
 ## Project Specs

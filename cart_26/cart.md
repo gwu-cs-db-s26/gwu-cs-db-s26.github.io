@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shopping Cart Mini Project
-permalink: /cart/
+# permalink: /cart/
 ---
 
 ## Description
