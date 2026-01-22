@@ -77,3 +77,8 @@ All deadlines for the class are found below. Deadlines might not be completely a
  - Introduction to NoSQL and Data Analytics
  - Web Application Development
  - Team Software Development
+
+## Technical Requirements ##
+
+ - Python 3.x <a href="https://www.python.org/downloads/">https://www.python.org/downloads/</a>
+ - Flask <a href="https://flask.palletsprojects.com/en/stable/installation/">https://flask.palletsprojects.com/en/stable/installation/</a>
