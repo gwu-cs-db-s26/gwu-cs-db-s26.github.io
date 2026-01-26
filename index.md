@@ -26,13 +26,18 @@ layout: home
 This course will expose students to design and implementation of Database systems and team software development. The course introduces relational database design, query languages including SQL, theory behind the design of relational schemas and normal forms, database application development, and team software development.   It introduces traditional relational databases, along with NoSQL database systems. A semester long team project requiring the design and implementation of a relational database system and  full stack development. As part of the Writing in the Disciplines (WID) requirement, a number of written reports will be assigned and classroom discussions will be required.
 </blockquote>
 
-## Announcements and Resources ##
+## Announcements ##
 
-- Please find a [git cheatsheet](slides/git.pdf) that will be useful!
 - You must complete [this short welcome survey](https://forms.gle/G8PwWSKc6H9c61ZR6)
 - Use our Discord Server! (Join [here](https://discord.gg/SvtV4STCXy))
 - Check the [syllabus](/syllabus) for a sense of what is to come!
-- See the guide to [setting up SQLite for VSCode](/sqlite/)!
+
+## Technical Resources ##
+
+ - Please find a [git cheatsheet](slides/git.pdf) to help you with `git` commands.
+ - Python 3.x <a href="https://www.python.org/downloads/">https://www.python.org/downloads/</a>
+ - Flask <a href="https://flask.palletsprojects.com/en/stable/installation/">https://flask.palletsprojects.com/en/stable/installation/</a>
+ - SQLite <a href="/sqlite/">Guide to setting up SQLite for VSCode</a>
 
 ## Schedule
 
@@ -78,10 +83,3 @@ All deadlines for the class are found below. Deadlines might not be completely a
  - Introduction to NoSQL and Data Analytics
  - Web Application Development
  - Team Software Development
-
-
-## Technical Resources ##
-
- - Python 3.x <a href="https://www.python.org/downloads/">https://www.python.org/downloads/</a>
- - Flask <a href="https://flask.palletsprojects.com/en/stable/installation/">https://flask.palletsprojects.com/en/stable/installation/</a>
-- SQLite <a href="/sqlite/">Guide to setting up SQLite for VSCode</a>
