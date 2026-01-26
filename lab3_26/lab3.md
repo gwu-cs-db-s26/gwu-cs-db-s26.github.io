@@ -18,9 +18,6 @@ title: Lab 3 - SQL
 **Lab3: Advanced Selections** More advanced queries with grouping and joins
   - Activity 3: done in your table/online group, DUE
 
-[HW3: SQL Selection](https://classroom.github.com/a/W_L9Y0eB): Homework on advanced queries with grouping and joins
-  - **Individual HW**: DUE
-
 
 # SQLite Instructions
 
