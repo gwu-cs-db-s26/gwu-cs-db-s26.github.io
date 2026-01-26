@@ -26,12 +26,13 @@ layout: home
 This course will expose students to design and implementation of Database systems and team software development. The course introduces relational database design, query languages including SQL, theory behind the design of relational schemas and normal forms, database application development, and team software development.   It introduces traditional relational databases, along with NoSQL database systems. A semester long team project requiring the design and implementation of a relational database system and  full stack development. As part of the Writing in the Disciplines (WID) requirement, a number of written reports will be assigned and classroom discussions will be required.
 </blockquote>
 
-## Announcements ##
+## Announcements and Resources ##
 
 - Please find a [git cheatsheet](slides/git.pdf) that will be useful!
 - You must complete [this short welcome survey](https://forms.gle/G8PwWSKc6H9c61ZR6)
 - Use our Discord Server! (Join [here](https://discord.gg/SvtV4STCXy))
 - Check the [syllabus](/syllabus) for a sense of what is to come!
+- See the guide to [setting up SQLite for VSCode](/sqlite/)!
 
 ## Schedule
 
@@ -45,7 +46,7 @@ All deadlines for the class are found below. Deadlines might not be completely a
 
 | Week 1 | *Monday 1/12/26:* [Intro to DB and Web Slides](slides/26-1-Course-Overview.pdf) <br>*Wednesday 1/14/26:* [DBMS and Course Outline Lecture and Lab Slides](slides/26-1-Course-Overview-part2.pdf)<br> - [Lab 1: HTML+CSS](lab1/)<br> - [Student Bios from lab](/lab1/): Due Friday 1/16<br> - [HW1](/hw1/): Due Fri 1/23 |
 | Week 2 | *Monday 1/19/26:* MLK Day - no class <br>*Wednesday 1/21/26:* [Relational Model Lecture and Lab Slides](slides/26-2-Relational-Model.pdf)<br> - [Lab 2: Python + Flask](lab2/)<br> - [Advanced Routes and Templates from lab](/lab2/): Due Thurs 1/22 <br> - [HW2](/hw2/): Due Fri 1/30 |
-| Week 3 | *Monday 1/26/26:* [SQL DDL Slides](slides/26-3-sql.pdf) <br>*Wednesday 1/28/26:* [SQL DML Lecture and Lab Slides](slides/Lab3b-SQL-Select.pdf)<br> - [Lab 3: SQLite](lab3/)<br> - [HW3](hw3/) - Due Friday 2/6 |
+| Week 3 | *Monday 1/26/26:* [SQL DDL Slides](slides/26-3-sql.pdf) <br>*Wednesday 1/28/26:* [SQL DML Lecture and Lab Slides](slides/Lab3b-SQL-Select.pdf)<br> - [Lab 3: SQLite](lab3/)- see the [guide to install SQLite](/sqlite/) before the lab<br> - [HW3](hw3/) - Due Friday 2/6 |
 | Week 4 | *Monday 2/2/26:* [ER Model Slides](slides/26-4-ER-model.pdf) <br>*Wednesday 2/4/26:* [Normalization Lecture and Lab Slides](slides/26-4b-normalization.pdf)<br> - [Lab 4: DB Design](lab4/) |
 | Week 5 | *Monday 2/9/26:* [Functional Dependencies Slides](slides/26-5-func-dependencies.pdf) <br>*Wednesday 2/11/26:* [Decomposition and BCNF Lecture](slides/26-5-func-dependencies.pdf)<br> - [Lab 5: Flask + SQL Slides](lab5/) - submit Lab 5 Activities by Fri 2/13<br> - [HW 4: Normalization](hw4/)  due Tues 2/20 - [Normalization Reference Sheet](/slides/sheet-normal-forms.pdf) |
 | Week 6 | *Monday 2/16/26:* President's Day - No Class <br>*Wednesday 2/18/26:* [Web Apps Lecture slides](slides/26-6-shopping-cart.pdf)<br> - [Lab 6: Sessions](lab6/) - submit [Lab 6 github](...) by Friday 2/27 <br> - [Shopping Cart Mini Project](/cart) due 3/6 |
@@ -78,7 +79,9 @@ All deadlines for the class are found below. Deadlines might not be completely a
  - Web Application Development
  - Team Software Development
 
-## Technical Requirements ##
+
+## Technical Resources ##
 
  - Python 3.x <a href="https://www.python.org/downloads/">https://www.python.org/downloads/</a>
  - Flask <a href="https://flask.palletsprojects.com/en/stable/installation/">https://flask.palletsprojects.com/en/stable/installation/</a>
+- SQLite <a href="/sqlite/">Guide to setting up SQLite for VSCode</a>
