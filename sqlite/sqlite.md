@@ -12,6 +12,16 @@ Install the SQLite extension in VSCode:
 
 While the extension page addresses how to use this extension, we'll go over some key features that we will be using. That being said, we recommend reading this over to familiarize yourself with understanding developer pages.
 
+You can download the:
+
+- [Database](database.db)
+- [DDL database SQL](create.sql)
+- [The start of a DML file of queries](main.sql)
+
+You'll want to download these and place these where the sqlite extension can see them.
+Note, at this point, you don't need to write any queries.
+That's what the lab is for!
+
 # Selecting a database
 
 To select a database, you'll want to type ```>sqlite: Open Database``` in the top search bar of VSCode.
