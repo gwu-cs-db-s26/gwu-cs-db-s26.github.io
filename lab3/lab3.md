@@ -9,7 +9,7 @@ permalink: /lab3/
 > **[Lab Slides](/lab3/lab3.pdf)**
 > **[SQL Reference Sheet](/lab3/sql-basics.pdf)**
 >
-> **[Lab 3 Activities Github](https://classroom.github.com/a/z-PhFyBg)**
+> **[Lab 3 Activities Github](https://classroom.github.com/a/678nPfaG)**
 
 # Lab 3 Activities
 **Lab3 Practice: Select Basics** Demo of basic select queries
