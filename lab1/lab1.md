@@ -6,7 +6,7 @@ permalink: /lab1/
 
 > This lab will teach you the basics of HTML and CSS. No advance knowledge of either is required, but if you are not already familiar with HTML, we strongly suggest you complete the Pre-Lab exercise below **before** class.
 >
-> **[Lab 1 Slides](/lab1/26-lab1-html-css.pdf)** (after lecture slides)
+> **[Lab 1 Slides](/26-lab1-html-css.pdf)** (after lecture slides)
 
 # Pre-Lab Exercise
 
@@ -38,6 +38,3 @@ To solve the lab, you must fully follow the Instructions to make a Hello World w
 [Lab1 Student Bios](https://classroom.github.com/a/GQWFZzLd): work in a small group to make a website with CSS styling
   - **Teams of up to four**: Add your team using the form on the class webpage (above the schedule).
 
-<!-- # Lab 1 Teams
-
-![Team list](lab1-teams.png) -->

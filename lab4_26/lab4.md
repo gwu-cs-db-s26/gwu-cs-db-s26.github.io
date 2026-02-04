@@ -6,7 +6,7 @@ title: Lab 4 - DB Design
 
 > This lab will teach you the basics of DB Design.
 >
-> **[Lab Slides](/lab4/Lab4_Final.pdf)
+> **[Lab Slides](/26-lab4-db-design.pdf)
 ** <br>
 
 
