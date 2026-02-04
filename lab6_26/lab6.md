@@ -6,12 +6,13 @@ title: Lab 6 - Session Variables
 
 > Students will become familiar with using session variables in flask
 >
-> **[Lab Slides](/lab6/Lab6_Session_Variables.pdf)
-** <br>
+> **[Lab Slides](/26-lab6-session-variables.pdf)**
+>
+> **[Lab 6 Activities Github](https://classroom.github.com/a/JF8-SfaR)**
 
 
 # Lab 6 Activities
-[Lab6: Login Page](https://classroom.github.com/a/JF8-SfaR): Creating a login page and saving information in session variables
+**Lab6: Login Page** Creating a login page and saving information in session variables
  - Activity 1/2: done in your table/group, DUE
 
 [HW6: Shopping Cart](https://classroom.github.com/a/Y6PZMFAe): Homework on developing a web store application
