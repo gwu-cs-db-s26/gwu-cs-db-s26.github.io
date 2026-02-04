@@ -6,7 +6,7 @@ permalink: /lab2/
 
 > This lab will teach you the basics of writing web applications with the Python Flask microframework.
 >
-> **[Lab Slides](/26-lab2-flask.pdf)**
+> **[Lab Slides](26-lab2-flask.pdf)**
 >
 > **[Lab 2 Activities Github](https://classroom.github.com/a/zD1xiZ9M)**
 

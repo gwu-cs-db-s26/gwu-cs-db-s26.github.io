@@ -6,8 +6,8 @@ permalink: /lab3/
 
 > This lab will teach you the basics SQL Select queries.
 >
-> **[Lab Slides](/26-lab3-sql-queries.pdf)**
-> **[SQL Reference Sheet](/sql-basics.pdf)**
+> **[Lab Slides](26-lab3-sql-queries.pdf)**
+> **[SQL Reference Sheet](sql-basics.pdf)**
 >
 > **[Lab 3 Activities Github](https://classroom.github.com/a/678nPfaG)**
 
