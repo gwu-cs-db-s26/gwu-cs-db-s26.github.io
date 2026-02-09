@@ -7,7 +7,7 @@ layout: home
     <ul class="contact-list">
         <li><a href="https://faculty.cs.gwu.edu/gparmer"><b>Prof. Gabe Parmer</b></a></li>
         <li>Class: Mondays 12:45-2pm, Wednesdays 12:45-3:25PM</li>
-        <li>Office Hours: Monday 2-4</li>
+        <li>Office Hours: Monday 2-3</li>
     </ul>
 </div>
 <div class="footer-col two-col-2">
