@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SQLite Installation and Usage
+title: SQLite VSCode Installation and Usage
 permalink: /sqlite/
 ---
 
