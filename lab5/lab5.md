@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Lab 5 - Flask and SQL
-# permalink: /lab5/
+permalink: /lab5/
 ---
 
 > Students will become familiar with using sqlite and flask to create more complex flask templates. Students will also learn how to create forms that can pass data to and from flask, eventually integrating with the sqlite database.
 >
 > **[Lab Slides](/26-lab5-flask-and-sql.pdf)**
 >
-> **[Lab 5 Activities Github](https://classroom.github.com/a/vR9EVnsO)**
+> **[Lab 5 Activities Github](https://classroom.github.com/a/-lRNpf5p)**
 
 
 # Lab 5 Activities
