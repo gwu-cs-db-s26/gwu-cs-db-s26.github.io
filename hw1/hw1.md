@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "HW1: Python Practice"
+title: HW1 - Python Practice
 permalink: /hw1/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "HW3: Advanced Queries with SQL"
+title: HW3 - Advanced Queries with SQL
 permalink: /hw3/
 ---
 

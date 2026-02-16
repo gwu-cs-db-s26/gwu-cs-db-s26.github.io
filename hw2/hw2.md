@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "HW2: Student Roster"
+title: HW2 - Student Roster
 permalink: /hw2/
 ---
 
