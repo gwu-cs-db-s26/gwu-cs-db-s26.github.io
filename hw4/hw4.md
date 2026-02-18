@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "HW4: Normalization"
+title: HW4 - Normalization
 permalink: /hw4/
 ---
 
