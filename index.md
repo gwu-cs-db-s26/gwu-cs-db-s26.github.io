@@ -34,11 +34,11 @@ This course will expose students to design and implementation of Database system
 
 ## Technical Resources ##
 
- - Please find a [git cheatsheet](slides/git.pdf) to help you with `git` commands.
- - Python 3.x <a href="https://www.python.org/downloads/">https://www.python.org/downloads/</a>
- - Flask <a href="https://flask.palletsprojects.com/en/stable/installation/">https://flask.palletsprojects.com/en/stable/installation/</a>
- - SQLite <a href="/sqlite/">Guide to setting up SQLite for VSCode</a>
- - SQLite <a href="/sqlite3/">Guide to setting up SQLite on the terminal</a>
+- Please find a [git cheatsheet](slides/git.pdf) to help you with `git` commands.
+- Python 3.x <a href="https://www.python.org/downloads/">https://www.python.org/downloads/</a>
+- Flask <a href="https://flask.palletsprojects.com/en/stable/installation/">https://flask.palletsprojects.com/en/stable/installation/</a>
+- SQLite <a href="/sqlite/">Guide to setting up SQLite for VSCode</a>
+- SQLite <a href="/sqlite3/">Guide to setting up SQLite on the terminal</a>
 - Class requirements for how to conduct [group work](https://faculty.cs.gwu.edu/gparmer/resources/2021-11-14-Working-With-Peers.html)
 
 ## Schedule
