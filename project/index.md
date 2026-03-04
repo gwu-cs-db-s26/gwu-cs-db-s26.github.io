@@ -42,7 +42,7 @@ Full details of the Demo [are listed here](/project/phase-1).
 
 ### Phase 1 Project Report
 
-Your phase 1 report (`report.md`) should include a number of sections:
+Your phase 1 report (`report_phase1.md`) should include a number of sections including:
 - **DB Design:** An ER Diagram updated to reflect your final design (in `er_diagram.png` that is linked into your report).
 - **Normal Forms:** An explanation and justification for what normal form you believe your tables meet.
 - **Design Justification:** A short justification of your key design choices (0.5 - 1 page).
