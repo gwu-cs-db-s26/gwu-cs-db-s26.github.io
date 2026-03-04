@@ -13,7 +13,7 @@ On the Phase 2 due date by the time of your demo you will need to submit (1) you
 
 ## Schedule and Evaluation of Demos
 
-The demos will be scheduled in class in lab.
+The demos will be scheduled in the class and lab.
 
   <!-- - Each team will be assigned a time slot (and an evaluator)– your team must be ready with your main webpage open and running. You should join the class Zoom and enter your group's breakout room 10 minutes before your start time. IF the previous team demo is running significantly beyond its scheduled time, we will notify you on slack and/or email. -->
   - ALL team members have to be present for the demo -- questions will be asked of all team members. Failure to attend the demo without prior approval will result in a grade of zero for your Phase 2.
