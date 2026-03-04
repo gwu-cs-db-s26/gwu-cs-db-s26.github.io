@@ -58,7 +58,7 @@ All deadlines for the class are found below. Deadlines might not be completely a
 | Week 5 | *Monday 2/9/26:* [Functional Dependencies Slides](slides/26-5-func-dependencies.pdf) <br>*Wednesday 2/11/26:* [Decomposition and BCNF Lecture](slides/26-5-func-dependencies.pdf)<br> - [Lab 5: Flask + SQL Slides](lab5/) - Due Thu 2/12 |
 | Week 6 | *Monday 2/16/26:* President's Day - No Class <br>*Wednesday 2/18/26:* [Web Apps Lecture slides](slides/26-6-shopping-cart.pdf)<br> - [Lab 6: Sessions](lab6/) - Due Thu 2/19 <br> - [HW5 - Shopping Cart](hw5/):  Due Fri 3/6 |
 | Week 7 | *Monday 2/23/26:* Exam Review <br>*Wednesday 2/25/26:* [EXAM Lecture and Lab Slides](slides/26-6-exam-review.pdf)<br> - Lab: EXAM |
-| Week 8 | *Monday 3/2/26:* Team Work for the Project <br>*Wednesday 3/4/26:* [Project Overview Slides](slides/26-8b-project.pdf)<br> - [Lab 7: Gitting Started](lab7/) - Due Thu 3/5 <br> - [Project active!](project/) |
+| Week 8 | *Monday 3/2/26:* Team Work for the Project <br>*Wednesday 3/4/26:* [Project Overview Slides](slides/26-8b-project.pdf)<br> - [Lab 7: Gitting Started](lab7/)- Due Thu 3/5 <br> - [Project active!](project/) <br> - [Team form](https://forms.gle/DypxLcebo4f5UAyz7) |
 | Week 9 | *Monday 3/9/26:* Spring Break <br>*Wednesday 3/11/26:* Spring Break<br> -  |
 | Week 10 | *Monday 3/16/26:* [Agile Development Slides](slides/26-9a-agile.pdf) <br>*Wednesday 3/18/26:* [Cloud Data Lecture and Lab Slides](slides/26-8-cloud-data.pdf)<br> - [Lab 8: Sqlite to MySQL. RDS.](lab8/) |
 | Week 11 | *Monday 3/23/26:* [DB Internals Slides](slides/26-11a-dbms-internals.pdf) <br>*Wednesday 3/25/26:* Phase 1 push<br> - Mentor Meeting |
