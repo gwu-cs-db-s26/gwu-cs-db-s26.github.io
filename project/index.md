@@ -11,11 +11,7 @@ Project Module Specifications are in your github classroom repo and/or discord:
 - Advising System
 - Application System
 
-Remember that the class has strict requirements on how to conduct [group work](https://faculty.cs.gwu.edu/gparmer/resources/2021-11-14-Working-With-Peers.html).
-Violations of these requirements can lead to a warning, then negative adjustments in grades.
-A key is to contact me if you start to see any issues, or have any concerns -- the goal is so that I can get involved to help solve problems before they become big.
-If you only contact me a week before the deadline, there isn't much that I can do.
-Procrastination is a strategy for failure on a project this complex.
+Remember that the class has strict requirements on how to conduct [group work](https://faculty.cs.gwu.edu/gparmer/resources/2021-11-14-Working-With-Peers.html). Violations of these requirements can lead to a warning, then negative adjustments in grades. A key is to contact me if you start to see any issues, or have any concerns -- the goal is so that I can get involved to help solve problems before they become big. If you only contact me a week before the deadline, there isn't much that I can do. Procrastination is a strategy for failure on a project this complex.
 
 ## Phase 1
 
@@ -42,7 +38,7 @@ Team dynamics and improper use of git/github can modify your grade downward.
 
 ### Phase 1 Demo
 
-Full details of the Demo [are listed here](/project/phase-1)
+Full details of the Demo [are listed here](/project/phase-1).
 
 ### Phase 1 Project Report
 
@@ -89,11 +85,9 @@ Your report should be submitted as a file named  `final-report.md` in your repos
 
 ### Phase 2 Grading
 
-Each team will need to schedule a grading appointment on May 2nd or May 3rd.
-Contact the professor immediately if you anticipate an issue.
+Each team will need to schedule a grading appointment on demo days. Contact the professor immediately if you anticipate an issue.
 
-During your appointment we will walk through a script to test your application similar to phase 1. We will also be asking you deeper questions about your project's design and implementation somewhat similar to Phase 1.
-After we test your basic functionality you will have a chance to show off any extra features you added.
+During your appointment we will walk through a script to test your application similar to phase 1. We will also be asking you deeper questions about your project's design and implementation somewhat similar to Phase 1. After we test your basic functionality you will have a chance to show off any extra features you added.
 
 **Approximate Grading Rubric:** This may not be the final grading rubric, but it gives you an idea what to expect:
   - 30% - Evidence that you are making progress each week and contributing your share of the project (see below)
@@ -112,12 +106,7 @@ To organize your team's progress, and to ensure that you're effectively working 
 
 ### `git` Usage
 
-**Commits.** Generally, you should plan out your commits.
-They are meant to tell a story, where someone can simply look at `git log` for your branch and understand the "flow" of how you implemented a feature.
-As such, *your commits should not be longer than 100 lines* (`git diff | wc -l` should be <= 100, and you can understand where the lines are coming from with `git diff --stat`).
-If you absolutely have to commit something that is larger, you need to well-justify it in the commit message.
-Generally most students are used to doing one or two main commits to their homeworks.
-This is unacceptable, as in a team it is often necessary to find a "breaking commit" (`git bisect` helps with this), and to understand (without going through code) what other's have done.
+**Commits.** Generally, you should plan out your commits. They are meant to tell a story, where someone can simply look at `git log` for your branch and understand the "flow" of how you implemented a feature. As such, *your commits should not be longer than 100 lines* (`git diff | wc -l` should be <= 100, and you can understand where the lines are coming from with `git diff --stat`). If you absolutely have to commit something that is larger, you need to well-justify it in the commit message. Generally most students are used to doing one or two main commits to their homeworks. This is unacceptable, as in a team it is often necessary to find a "breaking commit" (`git bisect` helps with this), and to understand (without going through code) what other's have done.
 
 **Commit messages.**
 Your commit messages should be formatted as such:
@@ -139,32 +128,21 @@ To fill these out properly, you have to use `git commit -a`, *not* `git commit -
 - The longer description (if one is necessary) provides design justification if it is not clear from the code.
 - The list of changes is important and necessary. I often do a `git diff` in one terminal to remind myself all of the changes, while I'm filling out this list in another terminal.
 
-Many of these requirements are motivated by enabling people to quickly find commits that are relevant.
-If you want to find all commits that have updated the database, you should be able to do `git log -n 100 | grep "db:"` to quickly find them.
-If you want to find a specific bugfix, you can `git log -n 100 | grep "bugfix/"` to get a list.
-Bugfixes to the db? `git log -n 100 | grep "bugfix/" | grep "db:"`.
+Many of these requirements are motivated by enabling people to quickly find commits that are relevant. If you want to find all commits that have updated the database, you should be able to do `git log -n 100 | grep "db:"` to quickly find them.
+If you want to find a specific bugfix, you can `git log -n 100 | grep "bugfix/"` to get a list. Bugfixes to the db? `git log -n 100 | grep "bugfix/" | grep "db:"`.
 
 Your grade will be adjusted downward by up to 15% if you don't adhere to these requirements.
 
 ### Branches and Github Projects/Issues
 
-**Use of Branches:** You should use the ["feature branch"](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow) workflow.
-Each new feature should essentially be a new branch, that you merge when it is ready.
-Generally each feature also corresponds to a card/issue (see "Github projects" next).
-Use `git pull --rebase` style merging as a default to maintain a linear git log.
+**Use of Branches:** You should use the ["feature branch"](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow) workflow. Each new feature should essentially be a new branch, that you merge when it is ready.
+Generally each feature also corresponds to a card/issue (see "Github projects" next). Use `git pull --rebase` style merging as a default to maintain a linear git log.
 
-**Github projects:** You'll have to organize who does what, and when.
-A typical way to do this is with Jira, but we'll use the simpler [github projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects).
-An example of how we've used trello (similar to github projects) in [senior design](https://faculty.cs.gwu.edu/gparmer/resources/2017-08-07-Trello-And-Github.html#trello).
+**Github projects:** You'll have to organize who does what, and when. A typical way to do this is with Jira, but we'll use the simpler [github projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects). An example of how we've used trello (similar to github projects) in [senior design](https://faculty.cs.gwu.edu/gparmer/resources/2017-08-07-Trello-And-Github.html#trello).
 
-The first thing your team should do is create a number of "cards" that correspond to the grading requirements of the class.
-Then start "backfilling" from there with a number of tasks.
-Mark each task as owned by a specific set of team members, and track progress on that task in the card.
-Each card should correspond to a github issue, so it can contain document, conversation, etc...
+The first thing your team should do is create a number of "cards" that correspond to the grading requirements of the class. Then start "backfilling" from there with a number of tasks. Mark each task as owned by a specific set of team members, and track progress on that task in the card. Each card should correspond to a github issue, so it can contain document, conversation, etc...
 
-Each mentor meeting, you'll pull up your github project board and use it to walk your mentor through your progress.
-If there are team issues, I'll want to see your project board to understand everyone's progress.
-We'd prefer the visual appeal of the ["board layout"](https://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/changing-the-layout-of-a-view#about-the-board-layout).
+Each mentor meeting, you'll pull up your github project board and use it to walk your mentor through your progress. If there are team issues, I'll want to see your project board to understand everyone's progress. We'd prefer the visual appeal of the ["board layout"](https://docs.github.com/en/issues/planning-and-tracking-with-projects/customizing-views-in-your-project/changing-the-layout-of-a-view#about-the-board-layout).
 
 If you don't track your project adequately using your github project and use feature branches, you'll get up to -10% off your grade.
 
