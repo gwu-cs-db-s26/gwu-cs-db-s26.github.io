@@ -4,7 +4,7 @@ title: Lab 7 - Gitting Started
 permalink: /lab7/
 ---
 
-> Students will 
+> Students will become familiar with using git and github for project management.
 >
 > **[Lab Slides](26-lab7-git.pdf)**
 >
