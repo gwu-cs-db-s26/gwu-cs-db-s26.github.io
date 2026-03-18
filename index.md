@@ -60,7 +60,7 @@ All deadlines for the class are found below. Deadlines might not be completely a
 | Week 7 | *Monday 2/23/26:* Exam Review <br>*Wednesday 2/25/26:* [EXAM Lecture and Lab Slides](slides/26-6-exam-review.pdf)<br> - Lab: EXAM |
 | Week 8 | *Monday 3/2/26:* Team Work for the Project <br>*Wednesday 3/4/26:* [Project Overview Slides](slides/26-8b-project.pdf)<br> - [Lab 7: Gitting Started](lab7/)- Due Thu 3/5 <br> - [Project active!](project/) <br> - [Team form](https://forms.gle/DypxLcebo4f5UAyz7) |
 | Week 9 | *Monday 3/9/26:* Spring Break <br>*Wednesday 3/11/26:* Spring Break<br> -  |
-| Week 10 | *Monday 3/16/26:* [Agile Development Slides](slides/26-9a-agile.pdf) <br>*Wednesday 3/18/26:* [Cloud Data Lecture and Lab Slides](slides/26-8-cloud-data.pdf)<br> - [Lab 8: Sqlite to MySQL. RDS.](lab8/) |
+| Week 10 | *Monday 3/16/26:* [Agile Development Slides](slides/26-9a-agile.pdf) <br>*Wednesday 3/18/26:* [Cloud Data Lecture and Lab Slides](slides/26-9b-cloud-data.pdf)<br> - [Lab 8: Sqlite to MySQL. RDS.](lab8/) |
 | Week 11 | *Monday 3/23/26:* [DB Internals Slides](slides/26-11a-dbms-internals.pdf) <br>*Wednesday 3/25/26:* Phase 1 push<br> - Mentor Meeting |
 | Week 12 | *Monday 3/30/26:* [RDBMS Challenges Slides](slides/26-12-rdbms-challenges.pdf) <br>*Wednesday 4/1/26:* Phase 1 Demos<br> - Due in class |
 | Week 13 | *Monday 4/6/26:* [NoSQL Slides](slides/26-12-rdbms-challenges.pdf) <br>*Wednesday 4/8/26:* Phase 2 push<br> - Mentor Meeting |
