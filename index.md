@@ -65,8 +65,8 @@ All deadlines for the class are found below. Deadlines might not be completely a
 | Week 12 | *Monday 3/30/26:* [DB Internals Slides](slides/26-11a-dbms-internals.pdf) <br>*Wednesday 4/1/26:* Phase 1 Demos<br> - Due in class |
 | Week 13 | *Monday 4/6/26:* [RDBMS Challenges Slides](slides/26-12-rdbms-challenges.pdf) <br>*Wednesday 4/8/26:* Phase 2 push<br> - Mentor Meeting |
 | Week 14 | *Monday 4/13/26:* [Performance / Indices Slides](slides/26-15-indexes.pdf) <br>*Wednesday 4/15/26:* Phase 2 push<br> - Mentor Meeting |
-| Week 15 | *Monday 4/20/26:* Mentor Meeting <br>*Wednesday 4/22/26:* Focus Group<br> - Focus group |
-| Week 16 | *Monday 4/27/26:* [Security Slides](slides/26-15-indexes.pdf) <br>*Wednesday 4/29/26:* [Phase 2 push Lecture and Lab Slides](slides/26-15-security.pdf)<br> -  |
+| Week 15 | *Monday 4/20/26:* [Security Slides](slides/26-15-security.pdf) <br>*Wednesday 4/22/26:* Focus Group<br> - Focus group |
+| Week 16 | *Monday 4/27/26:* Mentor Meeting <br>*Wednesday 4/29/26:* Phase 2 push<br> -  |
 
 {% comment %}
 <!-- Must be an empty line above here -->
