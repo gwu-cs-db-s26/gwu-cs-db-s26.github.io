@@ -73,6 +73,10 @@ All deadlines for the class are found below. Deadlines might not be completely a
 {% endcomment %}
 </div>
 
+## Project Deadline and Demos
+
+Final pushes for the project are the night of April 28th. Final demos will be spread across April 30th and May 1st. If your team doesn't want to demo during the reading days, tell Gabe, and we can arrange a demo on April 28th.
+
 ## Topics ##
 
  - Course Overview and Introduction to Database Systems
